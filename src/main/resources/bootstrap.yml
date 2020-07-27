@@ -5,7 +5,7 @@ spring:
             enabled: true
       enabled: true
    kafka:
-      bootstrap-servers: 47.115.34.118:9092
+      bootstrap-servers: kafka-host.com:9092
       consumer:
          group-id: food
 

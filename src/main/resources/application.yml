@@ -1,5 +1,5 @@
 server:
-   port: 7005
+   port: 7008
    host: 127.0.0.1
    public:
       host: public.server.com
